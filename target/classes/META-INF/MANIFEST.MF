@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Oleg
+Build-Jdk: 18.0.1.1
+Implementation-Title: TryMavenSpring
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: nykon_oleg
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/TryMavenSpring
+Created-By: Maven Integration for Eclipse
+
